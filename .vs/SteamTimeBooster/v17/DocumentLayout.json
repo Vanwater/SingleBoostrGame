@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\source\\repos\\SingleBoostrGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|E:\\source\\repos\\SingleBoostrGame\\singleboostrgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|solutionrelative:singleboostrgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|e:\\source\\repos\\singleboostrgame\\singleboostrgame\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|solutionrelative:singleboostrgame\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,18 +17,11 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SteamTimeBooster||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|e:\\source\\repos\\singleboostrgame\\singleboostrgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|solutionrelative:singleboostrgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|e:\\source\\repos\\singleboostrgame\\singleboostrgame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|E:\\source\\repos\\SingleBoostrGame\\singleboostrgame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|solutionrelative:singleboostrgame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\4b4d5d186bb01fd1f1300a7093a1ff5133b6c47842e71209decccc36ce34da28\\ISteamClient012.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FC02D30-663B-4262-B094-BC81C0A09B6E}|SingleBoostrGame\\SteamTimeBooster.csproj|e:\\source\\repos\\singleboostrgame\\singleboostrgame\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "E:\\source\\repos\\SingleBoostrGame\\SingleBoostrGame\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "SingleBoostrGame\\Properties\\AssemblyInfo.cs",
@@ -63,12 +60,11 @@
               "RelativeToolTip": "SingleBoostrGame\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-02-05T18:22:38.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T18:22:38.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Console.cs",
               "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\ae3b3c50b32e5c0841775aef800e93f9ef6ed3fde4f2e7711f36d42aa59ab791\\Console.cs",
               "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\ae3b3c50b32e5c0841775aef800e93f9ef6ed3fde4f2e7711f36d42aa59ab791\\Console.cs [\u53EA\u8BFB]",
@@ -79,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\source\\repos\\SingleBoostrGame\\SingleBoostrGame\\Program.cs",
               "RelativeDocumentMoniker": "SingleBoostrGame\\Program.cs",
@@ -92,15 +88,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SteamTimeBooster",
               "DocumentMoniker": "E:\\source\\repos\\SingleBoostrGame\\SingleBoostrGame\\SteamTimeBooster.csproj",
               "RelativeDocumentMoniker": "SingleBoostrGame\\SteamTimeBooster.csproj",
               "ToolTip": "E:\\source\\repos\\SingleBoostrGame\\SingleBoostrGame\\SteamTimeBooster.csproj",
               "RelativeToolTip": "SingleBoostrGame\\SteamTimeBooster.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-05T09:27:41.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T09:27:41.821Z"
             },
             {
               "$type": "Document",
@@ -110,8 +105,7 @@
               "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\4b4d5d186bb01fd1f1300a7093a1ff5133b6c47842e71209decccc36ce34da28\\ISteamClient012.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAABGAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T06:29:42.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T06:29:42.669Z"
             }
           ]
         }
